@@ -1,9 +1,0 @@
-Username: admin123, Password: Admin123
-Username: ethan123, Password: Ethan231
-Username: ethan123, Book: harry potter and the deathly hallows, Author: j.k rowling, Genre: fiction, fantasy
-Username: ethan123, Book: IT, Author: Stephen King, Genre: Thriller, Horror, Mystery
-Username: ethan123, Book: Pride and Prejudice, Author: Leo Tolstoy, Genre: I dont know
-Username: admin123, Book: the book of gods, Author: a god , Genre: the goldy
-Username: ethan184, Password: Ethan184
-Username: admin123, Password: Admin123
-Username: admin123, Book: The Test, Author: The Author, Genre: The Genre
