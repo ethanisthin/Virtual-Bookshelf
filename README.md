@@ -1,4 +1,4 @@
-To use this progra,, simply click on the 'main_sqlversion.exe' file. 
+To use this program, simply click on the 'main_sqlversion.exe' file. 
 This will open a command line window which you can then use to experiment with the program. 
 There were 3 previous builds with this program:-
 
